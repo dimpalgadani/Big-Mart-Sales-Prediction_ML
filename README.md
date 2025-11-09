@@ -1,7 +1,7 @@
 # 🛒Big-Mart-Sales-Prediction_ML
 
-**🏪 Big Mart Sales Prediction Using Machine Learning
-**
+**🏪 Big Mart Sales Prediction Using Machine Learning**
+
 This project predicts the sales of various products across Big Mart outlets using Machine Learning regression techniques on the Big Mart Sales dataset.
 
 **🔍 Project Overview**
