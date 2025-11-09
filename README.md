@@ -31,7 +31,8 @@ Predictive Analytics for Retail
 
 **📊 Results**
 
-Metric	Score
+**Metric	Score**
+
 R² Score	0.92
 
 **📁 Files Included**
